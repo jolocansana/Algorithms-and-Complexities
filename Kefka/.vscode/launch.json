@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheatingDebt",
+            "request": "launch",
+            "mainClass": "CheatingDebt",
+            "projectName": "Kefka_ab0de47c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Salem",
+            "request": "launch",
+            "mainClass": "Salem",
+            "projectName": "Kefka_ab0de47c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Powah",
+            "request": "launch",
+            "mainClass": "Powah"
+        }
+    ]
+}

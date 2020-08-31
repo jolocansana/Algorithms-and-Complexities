@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DragonOfLoowater",
+            "request": "launch",
+            "mainClass": "DragonOfLoowater"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AssociationForComputing",
+            "request": "launch",
+            "mainClass": "AssociationForComputing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AssociationForComputing",
+            "request": "launch",
+            "mainClass": "AssociationForComputing",
+            "projectName": "Zeromus_394f557d",
+            "vmArgs": "--enable-preview"
+        }
+    ]
+}

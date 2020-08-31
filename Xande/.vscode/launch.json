@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - equivalentstrings_wrong",
+            "request": "launch",
+            "mainClass": "equivalentstrings_wrong"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - equivalentstrings",
+            "request": "launch",
+            "mainClass": "equivalentstrings"
+        }
+    ]
+}
